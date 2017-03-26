@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-position:center;
+		font-size:24px;
+}
+
+img{
+	border-width: 1px;
+    border-style: solid;
+	border-color:#FFFFFF;
+    border-radius: 50%;
+	}
+	
+div{
+	 width : 100%; 
+	 text-align:center;
+}
+
+h1{
+	font-family:French Script MT;
+	text-align:center
+	}
+	
+p{
+	font-family:French Script MT;
+	margin-left:37%;
+	text-align:left;
+	}
+
+	
+li{
+	font-family:French Script MT;
+	text-align:left;
+	margin-left:40%;
+	}
+	
+	
+@media screen and (min-width: 300px) and (max-width: 452px)
